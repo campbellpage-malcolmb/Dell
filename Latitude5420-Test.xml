@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Manifest baseLocation="downloads.dell.com" dateTime="2021-10-22T04:57:20.6059411Z" releaseId="4f06dfb2-81d0-4db1-bb7b-de044ee3fb03" name="Latitude5420-Test" description="" >
+<InventoryComponent inventoryCollectorType="COMPACT" schemaVersion="3.0" releaseID="591T1" releaseDate="September 24, 2021" vendorVersion="10.1.0.3" dellVersion="A00" osCode="WIN" path="FOLDER07754662M/1/InvColPC_10.1.0.3.exe" size="10735920" xmlns="openmanage/cm/dm">
+    <Cryptography>
+      <Hash algorithm="MD5">729020a6fd3217172cf142f80a82e6ae</Hash>
+      <Hash algorithm="SHA256">4e0370ded8eee8469feeb1d0aa6de34f0fb995019a3129424174ee1557e8f980</Hash>
+      <Hash algorithm="SHA1">55fc2e0c82ead0fc17a746c6fec8ede7d7b94771</Hash>
+    </Cryptography>
+  </InventoryComponent>
+<InventoryComponent inventoryCollectorType="COMPREHENSIVE" schemaVersion="3.0" releaseID="V8FDP" releaseDate="September 24, 2021" vendorVersion="10.1.0.3" dellVersion="A00" osCode="WIN" path="FOLDER07754619M/1/InvColPC_10.1.0.3.exe" size="23622576" xmlns="openmanage/cm/dm">
+    <Cryptography>
+      <Hash algorithm="MD5">ffcfde8c71d794ef9cb150e888bc2fa3</Hash>
+      <Hash algorithm="SHA256">894530f7c5a141ef5119baa1638e166b79e66268e5af3ef1ff0c0744cc5724d5</Hash>
+      <Hash algorithm="SHA1">39ae869d70f537a02f16aa384cddd0ce201ad97a</Hash>
+    </Cryptography>
+  </InventoryComponent>
+<SoftwareComponent schemaVersion="3.0" releaseID="3FG6D" releaseDate="October 08, 2021" vendorVersion="1.11.2" dellVersion="1.11.2" packageType="LWXP" path="FOLDER07687272M/1/Latitude_5420_1.11.2.exe" packageID="3FG6D" dateTime="2021-07-21T12:18:12+05:30" size="44979256" identifier="f547fefc-8d90-483c-a58a-5bac3ec62baf" xmlns="openmanage/cm/dm">
+  <Name>
+    <Display lang="en"><![CDATA[Dell Latitude 5420 System BIOS]]></Display>
+  </Name>
+  <ComponentType value="BIOS">
+    <Display lang="en"><![CDATA[BIOS]]></Display>
+  </ComponentType>
+  <Description>
+    <Display lang="en"><![CDATA[This package contains the Dell system BIOS update. BIOS is a firmware package that is embedded on a small memory chip on the system board. It controls the keyboard, monitor, disk drives, and other devices.]]></Display>
+  </Description>
+  <Category value="BI">
+    <Display lang="en"><![CDATA[BIOS]]></Display>
+  </Category>
+  <SupportedDevices>
+    <Device componentID="159" embedded="false">
+      <Display><![CDATA[Latitude 5420]]></Display>
+    </Device>
+  </SupportedDevices>
+  <SupportedSystems>
+    <Brand key="28" prefix="LAT">
+      <Display lang="en"><![CDATA[Latitude]]></Display>
+      <Model systemID="0A20">
+        <Display lang="en"><![CDATA[5420]]></Display>
+      </Model>
+      <Model systemID="0A40">
+        <Display lang="en"><![CDATA[5420]]></Display>
+      </Model>
+    </Brand>
+  </SupportedSystems>
+  <ImportantInfo URL="https://www.dell.com/support/home/us/en/19/Drivers/DriversDetails?driverId=3FG6D">
+    <Display lang="en"><![CDATA[NA]]></Display>
+  </ImportantInfo>
+  <Criticality value="2">
+    <Display lang="en"><![CDATA[Urgent]]></Display>
+  </Criticality>
+  <Cryptography>
+    <Hash algorithm="MD5">17c155917a699c198ad8307dba650fb2</Hash>
+    <Hash algorithm="SHA256">c85b0f74b5375f23cff1b60fd532192d295faa700f7f8063de88cb3ab3093cfd</Hash>
+    <Hash algorithm="SHA1">4d07d2d7ae3a0dcea99c15d9fddd71f2554a027c</Hash>
+  </Cryptography>
+</SoftwareComponent>
+</Manifest>
